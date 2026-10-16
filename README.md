@@ -59,3 +59,5 @@ GitHub Actions automatically builds the solution and runs the automated tests wh
 
 ## Purpose
 This project demonstrates API development, database integration, authentication, automated testing, version control, and continuous integration using the .NET ecosystem.
+Workflow
+<img width="847" height="177" alt="image" src="https://github.com/user-attachments/assets/2af6da0b-08a0-4d0e-91c1-944e45109228" />
